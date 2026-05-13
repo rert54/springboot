@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel>
+      <module name="com.exam.sample_01_빈생성1_권장패키지" target="21" />
+      <module name="com.exam.sample_01_빈생성1_권장패키지.main" target="21" />
+      <module name="com.exam.sample_01_빈생성1_권장패키지.test" target="21" />
+      <module name="sample01_빈생성1_권장패키지" target="21" />
+      <module name="sample01_빈생성1_권장패키지.main" target="21" />
+      <module name="sample01_빈생성1_권장패키지.test" target="21" />
+      <module name="sample_01_빈생성1_권장패키지" target="21" />
+      <module name="sample_01_빈생성1_권장패키지.main" target="21" />
+      <module name="sample_01_빈생성1_권장패키지.test" target="21" />
+      <module name="sample_01_빈생성1_권장패키지2" target="21" />
+      <module name="sample_01_빈생성1_권장패키지2.main" target="21" />
+      <module name="sample_01_빈생성1_권장패키지2.test" target="21" />
+      <module name="sample_01_빈생성2_다른패키지_scanBasePackages" target="21" />
+      <module name="sample_01_빈생성2_다른패키지_scanBasePackages.main" target="21" />
+      <module name="sample_01_빈생성2_다른패키지_scanBasePackages.test" target="21" />
+      <module name="sample_01_빈생성3_Configration_Bean" target="21" />
+      <module name="sample_01_빈생성3_Configration_Bean.main" target="21" />
+      <module name="sample_01_빈생성3_Configration_Bean.test" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용1" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용1.main" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용1.test" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용2" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용2.main" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용2.test" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용2_Autowired_multi" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용2_Autowired_multi.main" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용2_Autowired_multi.test" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용3_Qualifer" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용3_Qualifer.main" target="21" />
+      <module name="sample_02_의존성주입1_생성자이용3_Qualifer.test" target="21" />
+      <module name="sample_02_의존성주입2_필드주입_Autowired" target="21" />
+      <module name="sample_02_의존성주입2_필드주입_Autowired.main" target="21" />
+      <module name="sample_02_의존성주입2_필드주입_Autowired.test" target="21" />
+      <module name="sample_03_Bean_scope_singleton_porototype" target="21" />
+      <module name="sample_03_Bean_scope_singleton_porototype.main" target="21" />
+      <module name="sample_03_Bean_scope_singleton_porototype.test" target="21" />
+      <module name="sample_04_PostConstruct_PreDestroy" target="21" />
+      <module name="sample_04_PostConstruct_PreDestroy.main" target="21" />
+      <module name="sample_04_PostConstruct_PreDestroy.test" target="21" />
+      <module name="sample_06)Profile_prod_dev" target="21" />
+      <module name="sample_06)Profile_prod_dev.main" target="21" />
+      <module name="sample_06)Profile_prod_dev.test" target="21" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="com.exam.sample_01_빈생성1_권장패키지" options="-parameters" />
+      <module name="com.exam.sample_01_빈생성1_권장패키지.main" options="-parameters" />
+      <module name="com.exam.sample_01_빈생성1_권장패키지.test" options="-parameters" />
+      <module name="demo" options="-parameters" />
+      <module name="demo.main" options="-parameters" />
+      <module name="demo.test" options="-parameters" />
+      <module name="sample01_빈생성1_권장패키지" options="-parameters" />
+      <module name="sample01_빈생성1_권장패키지.main" options="-parameters" />
+      <module name="sample01_빈생성1_권장패키지.test" options="-parameters" />
+      <module name="sample_01_빈생성1_권장패키지" options="-parameters" />
+      <module name="sample_01_빈생성1_권장패키지.main" options="-parameters" />
+      <module name="sample_01_빈생성1_권장패키지.test" options="-parameters" />
+      <module name="sample_01_빈생성1_권장패키지2" options="-parameters" />
+      <module name="sample_01_빈생성1_권장패키지2.main" options="-parameters" />
+      <module name="sample_01_빈생성1_권장패키지2.test" options="-parameters" />
+      <module name="sample_01_빈생성2_다른패키지_scanBasePackages" options="-parameters" />
+      <module name="sample_01_빈생성2_다른패키지_scanBasePackages.main" options="-parameters" />
+      <module name="sample_01_빈생성2_다른패키지_scanBasePackages.test" options="-parameters" />
+      <module name="sample_01_빈생성3_Configration_Bean" options="-parameters" />
+      <module name="sample_01_빈생성3_Configration_Bean.main" options="-parameters" />
+      <module name="sample_01_빈생성3_Configration_Bean.test" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용1" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용1.main" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용1.test" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용2" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용2.main" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용2.test" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용2_Autowired_multi" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용2_Autowired_multi.main" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용2_Autowired_multi.test" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용3_Qualifer" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용3_Qualifer.main" options="-parameters" />
+      <module name="sample_02_의존성주입1_생성자이용3_Qualifer.test" options="-parameters" />
+      <module name="sample_02_의존성주입2_필드주입_Autowired" options="-parameters" />
+      <module name="sample_02_의존성주입2_필드주입_Autowired.main" options="-parameters" />
+      <module name="sample_02_의존성주입2_필드주입_Autowired.test" options="-parameters" />
+      <module name="sample_03_Bean_scope_singleton_porototype" options="-parameters" />
+      <module name="sample_03_Bean_scope_singleton_porototype.main" options="-parameters" />
+      <module name="sample_03_Bean_scope_singleton_porototype.test" options="-parameters" />
+      <module name="sample_04_PostConstruct_PreDestroy" options="-parameters" />
+      <module name="sample_04_PostConstruct_PreDestroy.main" options="-parameters" />
+      <module name="sample_04_PostConstruct_PreDestroy.test" options="-parameters" />
+      <module name="sample_05_external_configuration1_value" options="-parameters" />
+      <module name="sample_05_external_configuration1_value.main" options="-parameters" />
+      <module name="sample_05_external_configuration1_value.test" options="-parameters" />
+      <module name="sample_05_external_configuration2_configurationProperties" options="-parameters" />
+      <module name="sample_05_external_configuration2_configurationProperties.main" options="-parameters" />
+      <module name="sample_05_external_configuration2_configurationProperties.test" options="-parameters" />
+      <module name="sample_05_external_configuration2_configurationProperties2_Validation" options="-parameters" />
+      <module name="sample_05_external_configuration2_configurationProperties2_Validation.main" options="-parameters" />
+      <module name="sample_05_external_configuration2_configurationProperties2_Validation.test" options="-parameters" />
+      <module name="sample_06)Profile_prod_dev" options="-parameters" />
+      <module name="sample_06)Profile_prod_dev.main" options="-parameters" />
+      <module name="sample_06)Profile_prod_dev.test" options="-parameters" />
+      <module name="sample_06_Profile_prod_dev" options="-parameters" />
+      <module name="sample_06_Profile_prod_dev.main" options="-parameters" />
+      <module name="sample_06_Profile_prod_dev.test" options="-parameters" />
+      <module name="sample_07_DB1_h2_JdbcTemplate" options="-parameters" />
+      <module name="sample_07_DB1_h2_JdbcTemplate.main" options="-parameters" />
+      <module name="sample_07_DB1_h2_JdbcTemplate.test" options="-parameters" />
+    </option>
+  </component>
+</project>
