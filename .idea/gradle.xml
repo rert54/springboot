@@ -13,47 +13,11 @@
         </option>
       </GradleProjectSettings>
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_05_external_configuration1_value" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_09_MVC1_요청처리1_RequestMapping" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/sample_05_external_configuration1_value" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_05_external_configuration2_configurationProperties" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/sample_05_external_configuration2_configurationProperties" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_05_external_configuration2_configurationProperties2_Validation" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/sample_05_external_configuration2_configurationProperties2_Validation" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_06_Profile_prod_dev" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/sample_06_Profile_prod_dev" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_07_DB1_h2_JdbcTemplate" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/sample_07_DB1_h2_JdbcTemplate" />
+            <option value="$PROJECT_DIR$/sample_09_MVC1_요청처리1_RequestMapping" />
           </set>
         </option>
       </GradleProjectSettings>

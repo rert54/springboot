@@ -1,0 +1,19 @@
+
+
+
+app:
+  name: demo
+  user:   # JSON "user":[{"name:""R2"},"age":20]
+    - name: R2
+      age: 20
+    - name: D2
+      age: 30
+  phones:   # JSON "phones":["010","02","052"]
+      - 010
+      - 02
+      - 052
+  emails: ["aaa@example.com","bbb@example.com"]
+  message: |  #문자열을 여러줄 쓸때 사용
+    hello
+    world
+  pool-size: 10

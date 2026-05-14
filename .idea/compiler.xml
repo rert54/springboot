@@ -5,9 +5,24 @@
       <module name="com.exam.sample_01_빈생성1_권장패키지" target="21" />
       <module name="com.exam.sample_01_빈생성1_권장패키지.main" target="21" />
       <module name="com.exam.sample_01_빈생성1_권장패키지.test" target="21" />
+      <module name="com.exam.sample_07_DB1_h2_JdbcTemplate" target="21" />
+      <module name="com.exam.sample_07_DB1_h2_JdbcTemplate.main" target="21" />
+      <module name="com.exam.sample_07_DB1_h2_JdbcTemplate.test" target="21" />
       <module name="sample01_빈생성1_권장패키지" target="21" />
       <module name="sample01_빈생성1_권장패키지.main" target="21" />
       <module name="sample01_빈생성1_권장패키지.test" target="21" />
+      <module name="sample07_DB2_MySQL_JdbcTemplate" target="21" />
+      <module name="sample07_DB2_MySQL_JdbcTemplate.main" target="21" />
+      <module name="sample07_DB2_MySQL_JdbcTemplate.test" target="21" />
+      <module name="sample07_DB3_MySQL_MyBatis1_basic" target="21" />
+      <module name="sample07_DB3_MySQL_MyBatis1_basic.main" target="21" />
+      <module name="sample07_DB3_MySQL_MyBatis1_basic.test" target="21" />
+      <module name="sample07_DB3_MySQL_MyBatis2_Mapper인터페이스" target="21" />
+      <module name="sample07_DB3_MySQL_MyBatis2_Mapper인터페이스.main" target="21" />
+      <module name="sample07_DB3_MySQL_MyBatis2_Mapper인터페이스.test" target="21" />
+      <module name="sample08_h2_MySQL_Profile실습_prod_dev" target="21" />
+      <module name="sample08_h2_MySQL_Profile실습_prod_dev.main" target="21" />
+      <module name="sample08_h2_MySQL_Profile실습_prod_dev.test" target="21" />
       <module name="sample_01_빈생성1_권장패키지" target="21" />
       <module name="sample_01_빈생성1_권장패키지.main" target="21" />
       <module name="sample_01_빈생성1_권장패키지.test" target="21" />
@@ -41,9 +56,24 @@
       <module name="sample_04_PostConstruct_PreDestroy" target="21" />
       <module name="sample_04_PostConstruct_PreDestroy.main" target="21" />
       <module name="sample_04_PostConstruct_PreDestroy.test" target="21" />
+      <module name="sample_05_external_configuration1_value" target="21" />
+      <module name="sample_05_external_configuration1_value.main" target="21" />
+      <module name="sample_05_external_configuration1_value.test" target="21" />
+      <module name="sample_05_external_configuration2_configurationProperties" target="21" />
+      <module name="sample_05_external_configuration2_configurationProperties.main" target="21" />
+      <module name="sample_05_external_configuration2_configurationProperties.test" target="21" />
+      <module name="sample_05_external_configuration2_configurationProperties2_Validation" target="21" />
+      <module name="sample_05_external_configuration2_configurationProperties2_Validation.main" target="21" />
+      <module name="sample_05_external_configuration2_configurationProperties2_Validation.test" target="21" />
       <module name="sample_06)Profile_prod_dev" target="21" />
       <module name="sample_06)Profile_prod_dev.main" target="21" />
       <module name="sample_06)Profile_prod_dev.test" target="21" />
+      <module name="sample_06_Profile_prod_dev" target="21" />
+      <module name="sample_06_Profile_prod_dev.main" target="21" />
+      <module name="sample_06_Profile_prod_dev.test" target="21" />
+      <module name="sample_07_DB1_h2_JdbcTemplate" target="21" />
+      <module name="sample_07_DB1_h2_JdbcTemplate.main" target="21" />
+      <module name="sample_07_DB1_h2_JdbcTemplate.test" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -51,12 +81,27 @@
       <module name="com.exam.sample_01_빈생성1_권장패키지" options="-parameters" />
       <module name="com.exam.sample_01_빈생성1_권장패키지.main" options="-parameters" />
       <module name="com.exam.sample_01_빈생성1_권장패키지.test" options="-parameters" />
+      <module name="com.exam.sample_07_DB1_h2_JdbcTemplate" options="-parameters" />
+      <module name="com.exam.sample_07_DB1_h2_JdbcTemplate.main" options="-parameters" />
+      <module name="com.exam.sample_07_DB1_h2_JdbcTemplate.test" options="-parameters" />
       <module name="demo" options="-parameters" />
       <module name="demo.main" options="-parameters" />
       <module name="demo.test" options="-parameters" />
       <module name="sample01_빈생성1_권장패키지" options="-parameters" />
       <module name="sample01_빈생성1_권장패키지.main" options="-parameters" />
       <module name="sample01_빈생성1_권장패키지.test" options="-parameters" />
+      <module name="sample07_DB2_MySQL_JdbcTemplate" options="-parameters" />
+      <module name="sample07_DB2_MySQL_JdbcTemplate.main" options="-parameters" />
+      <module name="sample07_DB2_MySQL_JdbcTemplate.test" options="-parameters" />
+      <module name="sample07_DB3_MySQL_MyBatis1_basic" options="-parameters" />
+      <module name="sample07_DB3_MySQL_MyBatis1_basic.main" options="-parameters" />
+      <module name="sample07_DB3_MySQL_MyBatis1_basic.test" options="-parameters" />
+      <module name="sample07_DB3_MySQL_MyBatis2_Mapper인터페이스" options="-parameters" />
+      <module name="sample07_DB3_MySQL_MyBatis2_Mapper인터페이스.main" options="-parameters" />
+      <module name="sample07_DB3_MySQL_MyBatis2_Mapper인터페이스.test" options="-parameters" />
+      <module name="sample08_h2_MySQL_Profile실습_prod_dev" options="-parameters" />
+      <module name="sample08_h2_MySQL_Profile실습_prod_dev.main" options="-parameters" />
+      <module name="sample08_h2_MySQL_Profile실습_prod_dev.test" options="-parameters" />
       <module name="sample_01_빈생성1_권장패키지" options="-parameters" />
       <module name="sample_01_빈생성1_권장패키지.main" options="-parameters" />
       <module name="sample_01_빈생성1_권장패키지.test" options="-parameters" />
@@ -108,6 +153,9 @@
       <module name="sample_07_DB1_h2_JdbcTemplate" options="-parameters" />
       <module name="sample_07_DB1_h2_JdbcTemplate.main" options="-parameters" />
       <module name="sample_07_DB1_h2_JdbcTemplate.test" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리1_RequestMapping" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리1_RequestMapping.main" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리1_RequestMapping.test" options="-parameters" />
     </option>
   </component>
 </project>

@@ -1,4 +1,4 @@
 package com.exam.service;
 
-public class Todoservice {
+public class TodoService {
 }
