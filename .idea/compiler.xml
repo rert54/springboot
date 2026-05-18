@@ -8,6 +8,9 @@
       <module name="com.exam.sample_07_DB1_h2_JdbcTemplate" target="21" />
       <module name="com.exam.sample_07_DB1_h2_JdbcTemplate.main" target="21" />
       <module name="com.exam.sample_07_DB1_h2_JdbcTemplate.test" target="21" />
+      <module name="demo" target="21" />
+      <module name="demo.main" target="21" />
+      <module name="demo.test" target="21" />
       <module name="sample01_빈생성1_권장패키지" target="21" />
       <module name="sample01_빈생성1_권장패키지.main" target="21" />
       <module name="sample01_빈생성1_권장패키지.test" target="21" />
@@ -23,6 +26,9 @@
       <module name="sample08_h2_MySQL_Profile실습_prod_dev" target="21" />
       <module name="sample08_h2_MySQL_Profile실습_prod_dev.main" target="21" />
       <module name="sample08_h2_MySQL_Profile실습_prod_dev.test" target="21" />
+      <module name="sample19_예외처리1_로컬처리_ExceptionHandler" target="21" />
+      <module name="sample19_예외처리1_로컬처리_ExceptionHandler.main" target="21" />
+      <module name="sample19_예외처리1_로컬처리_ExceptionHandler.test" target="21" />
       <module name="sample_01_빈생성1_권장패키지" target="21" />
       <module name="sample_01_빈생성1_권장패키지.main" target="21" />
       <module name="sample_01_빈생성1_권장패키지.test" target="21" />
@@ -74,6 +80,30 @@
       <module name="sample_07_DB1_h2_JdbcTemplate" target="21" />
       <module name="sample_07_DB1_h2_JdbcTemplate.main" target="21" />
       <module name="sample_07_DB1_h2_JdbcTemplate.test" target="21" />
+      <module name="sample_09_MVC1_요청처리1_RequestMapping" target="21" />
+      <module name="sample_09_MVC1_요청처리1_RequestMapping.main" target="21" />
+      <module name="sample_09_MVC1_요청처리1_RequestMapping.test" target="21" />
+      <module name="sample_09_MVC1_요청처리2_사용자입력처리" target="21" />
+      <module name="sample_09_MVC1_요청처리2_사용자입력처리.main" target="21" />
+      <module name="sample_09_MVC1_요청처리2_사용자입력처리.test" target="21" />
+      <module name="sample_09_MVC1_요청처리3_header값얻기" target="21" />
+      <module name="sample_09_MVC1_요청처리3_header값얻기.main" target="21" />
+      <module name="sample_09_MVC1_요청처리3_header값얻기.test" target="21" />
+      <module name="sample_09_MVC3_Controller_리턴타입" target="21" />
+      <module name="sample_09_MVC3_Controller_리턴타입.main" target="21" />
+      <module name="sample_09_MVC3_Controller_리턴타입.test" target="21" />
+      <module name="sample_09_MVC4_JSON통신_Requestbody" target="21" />
+      <module name="sample_09_MVC4_JSON통신_Requestbody.main" target="21" />
+      <module name="sample_09_MVC4_JSON통신_Requestbody.test" target="21" />
+      <module name="sample_09_MVC5_Redirect_Forward" target="21" />
+      <module name="sample_09_MVC5_Redirect_Forward.main" target="21" />
+      <module name="sample_09_MVC5_Redirect_Forward.test" target="21" />
+      <module name="sample_09_MVC6_Filter" target="21" />
+      <module name="sample_09_MVC6_Filter.main" target="21" />
+      <module name="sample_09_MVC6_Filter.test" target="21" />
+      <module name="sample_09_MVC7_Intersepter" target="21" />
+      <module name="sample_09_MVC7_Intersepter.main" target="21" />
+      <module name="sample_09_MVC7_Intersepter.test" target="21" />
     </bytecodeTargetLevel>
   </component>
   <component name="JavacSettings">
@@ -102,6 +132,12 @@
       <module name="sample08_h2_MySQL_Profile실습_prod_dev" options="-parameters" />
       <module name="sample08_h2_MySQL_Profile실습_prod_dev.main" options="-parameters" />
       <module name="sample08_h2_MySQL_Profile실습_prod_dev.test" options="-parameters" />
+      <module name="sample19_예외처리1_로컬처리_ExceptionHandler" options="-parameters" />
+      <module name="sample19_예외처리1_로컬처리_ExceptionHandler.main" options="-parameters" />
+      <module name="sample19_예외처리1_로컬처리_ExceptionHandler.test" options="-parameters" />
+      <module name="sample19_예외처리2_전역처리_ExceptionHandler_ControllerAdvice" options="-parameters" />
+      <module name="sample19_예외처리2_전역처리_ExceptionHandler_ControllerAdvice.main" options="-parameters" />
+      <module name="sample19_예외처리2_전역처리_ExceptionHandler_ControllerAdvice.test" options="-parameters" />
       <module name="sample_01_빈생성1_권장패키지" options="-parameters" />
       <module name="sample_01_빈생성1_권장패키지.main" options="-parameters" />
       <module name="sample_01_빈생성1_권장패키지.test" options="-parameters" />
@@ -156,6 +192,27 @@
       <module name="sample_09_MVC1_요청처리1_RequestMapping" options="-parameters" />
       <module name="sample_09_MVC1_요청처리1_RequestMapping.main" options="-parameters" />
       <module name="sample_09_MVC1_요청처리1_RequestMapping.test" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리2_사용자입력처리" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리2_사용자입력처리.main" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리2_사용자입력처리.test" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리3_header값얻기" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리3_header값얻기.main" options="-parameters" />
+      <module name="sample_09_MVC1_요청처리3_header값얻기.test" options="-parameters" />
+      <module name="sample_09_MVC3_Controller_리턴타입" options="-parameters" />
+      <module name="sample_09_MVC3_Controller_리턴타입.main" options="-parameters" />
+      <module name="sample_09_MVC3_Controller_리턴타입.test" options="-parameters" />
+      <module name="sample_09_MVC4_JSON통신_Requestbody" options="-parameters" />
+      <module name="sample_09_MVC4_JSON통신_Requestbody.main" options="-parameters" />
+      <module name="sample_09_MVC4_JSON통신_Requestbody.test" options="-parameters" />
+      <module name="sample_09_MVC5_Redirect_Forward" options="-parameters" />
+      <module name="sample_09_MVC5_Redirect_Forward.main" options="-parameters" />
+      <module name="sample_09_MVC5_Redirect_Forward.test" options="-parameters" />
+      <module name="sample_09_MVC6_Filter" options="-parameters" />
+      <module name="sample_09_MVC6_Filter.main" options="-parameters" />
+      <module name="sample_09_MVC6_Filter.test" options="-parameters" />
+      <module name="sample_09_MVC7_Intersepter" options="-parameters" />
+      <module name="sample_09_MVC7_Intersepter.main" options="-parameters" />
+      <module name="sample_09_MVC7_Intersepter.test" options="-parameters" />
     </option>
   </component>
 </project>

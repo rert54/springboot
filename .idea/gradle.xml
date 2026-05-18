@@ -4,20 +4,11 @@
   <component name="GradleSettings">
     <option name="linkedExternalProjectsSettings">
       <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/demo" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_19_예외처리2_전역처리_ExceptionHandler_ControllerAdvice" />
         <option name="gradleJvm" value="#JAVA_HOME" />
         <option name="modules">
           <set>
-            <option value="$PROJECT_DIR$/demo" />
-          </set>
-        </option>
-      </GradleProjectSettings>
-      <GradleProjectSettings>
-        <option name="externalProjectPath" value="$PROJECT_DIR$/sample_09_MVC1_요청처리1_RequestMapping" />
-        <option name="gradleJvm" value="#JAVA_HOME" />
-        <option name="modules">
-          <set>
-            <option value="$PROJECT_DIR$/sample_09_MVC1_요청처리1_RequestMapping" />
+            <option value="$PROJECT_DIR$/sample_19_예외처리2_전역처리_ExceptionHandler_ControllerAdvice" />
           </set>
         </option>
       </GradleProjectSettings>
