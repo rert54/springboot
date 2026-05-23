@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>Write</h1>
+<form th:object="${xxx}" th:action="@{/add-todo}" method="post">
+    <!--$는 키값 @은 경로값 *은 객체 #정해져있는 값 -->
+        <p th:if="${#fields.hasErrors('userid')}" th:errors="*{userid}"></p>
+    아이디:<input type="text" th:field="*{userid}"><br>
+    할일:<input type="text" th:field="*{description}"><br>
+    목표날짜:<input type="date" th:field="*{targetDate}"><br>
+    <input type="submit" value="할일 저장">
+</form>
+</body>
+</html>

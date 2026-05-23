@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<div th:fragment="content">
+    <form th:action="@{/sighup}" method="post">
+        할일:<input type="text" name="Description"><br>
+
+        목표일:<input type="date" name="targetDate"><br>
+
+        완료여부:<input type="checkbox" name="done"><br>
+        <input type="submit" value="저장">
+    </form>
+</div>
+</body>
+</html>

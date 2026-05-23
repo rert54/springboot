@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>1. scoop에 저장하고 html에 보여주기</h1>
+리터럴 : <p th:text="123"></p>
+리터럴 : <p th:text="'hello'"></p>
+request : <p th:utext="${request}"></p>
+session : <p th:text="${session.session2}"></p>
+session : <p th:text=${session.xxx}"></p>
+application : <p th:text=${application.application2}"></p>
+</body>
+</html>

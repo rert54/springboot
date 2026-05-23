@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<link rel="stylesheet" type="text/css" th:href="@{/css/test.css}">
+</head>
+<body>
+<h1>5. 유틸리티</h1>
+<p th:text="${#temporals.format(today, 'dd/MMM/yyyy')}"></p>
+<h2>나. 문자열 유틸리티</h2>
+<p th:text="${#strings.toUpperCase(username)}"></p>
+<p th:text="${#strings.length(username)}"></p>
+<p th:text="${#strings.substring(username,0,4)}"></p>
+
+<h2>다. 숫자 유틸리티</h2>
+<p th:text="${#numbers.formatInteger(price,3,'POINT')}" ></p>
+<p th:text="${#numbers.formatInteger(price,3,'COMMA')}" ></p>
+<p th:text="${#numbers.formatInteger(price)}" ></p>
+
+<h2>리스트 유틸리티</h2>
+<p th:text="${#lists.size(myList)}"></p>
+값이 없냐?<p th:text="${#lists.isEmpty(MyList)}"></p>
+값이 포함되냐?<p th:text="${#lists.contains(MyList)}"></p>
+
+
+</body>
+</html>

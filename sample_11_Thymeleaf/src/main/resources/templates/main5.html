@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+<link rel="stylesheet" type="text/css" th:href="@{/css/test.css}">
+</head>
+<body>
+<h1>4. 경로(링크)</h1>
+<p>Hello</p>
+<img th:src="@{images/my.gif}" width="100" height="100"><br>
+    <a th:href="@{http://google.com}">구글</a><br>
+    <a th:href="@{m4.1}">,4-1(상대)</a><br>
+    <a th:href="@{/m4.1(id='aaa',pw='1234')}">,4-1(절대)-컨텍스트명뒤의/이다.</a><br>
+    <a th:href="@{/m4.1(id='${userid}',pw='1234')}">,4-1(절대)-컨텍스트명뒤의/이다.</a><br>
+
+
+http://localhost:8080/컨텍스트명/요청매핑값
+</body>
+</html>

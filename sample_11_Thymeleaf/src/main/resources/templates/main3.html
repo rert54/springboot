@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymleaf.org" lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+<h1>2. scope에 객체를 저장하고 html에 보여주기</h1>
+<h1>가. 중첩형태로 접근</h1>
+login객체 : <p th:text="${login}"></p>
+login객체 : <p th:text="${login.toString()}"></p>
+userid : <p th:text="${login.userid()}"></p>
+password : <p th:text="${login.password()}"></p>
+<h2>나. 객체 속성으로 접근(일반적임)</h2>
+<div th:object="${login}">
+    아이디:<p th:text="*{userid}"></p>
+    비번:<p th:text="*{password}"></p>
+</div>
+</body>
+</html>
